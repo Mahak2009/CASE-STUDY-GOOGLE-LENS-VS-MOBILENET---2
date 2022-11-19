@@ -1,0 +1,121 @@
+p
+{
+    font-weight: 800;
+    font-size: 30;
+    font-family:cursive;
+}
+h5
+{
+    font-size: 15;
+}
+
+.test_image_and_result
+{
+    background-color: rgb(177, 165, 165);
+    border-radius: 7px;
+    width: 1250;
+    margin-top: 25;
+}
+
+.google_lens
+{
+    font-size: 25px;
+    font-weight: 550;
+}
+
+.mobilenet
+{
+    font-size: 20px;
+    background-color: cornflowerblue;
+}
+
+#pic1
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic2
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic3
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic4
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic5
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic6
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+#pic7
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 250px;
+}
+
+.footer
+{
+    font-size: 15;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.con
+{
+    margin-top: 25px;
+    margin-bottom: 40;
+    background-color: lightpink;
+    width: 1250;
+    height: 115;
+    border-radius: 10px;
+
+}
+
+
+.mahak
+{
+    background-color: lightskyblue;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: black;
+    font-weight: 700;
+}
+
+b
+{
+    color: purple;
+}
+
+h6
+{
+    font-size: 15px;
+    font-weight: 725;
+}
+
